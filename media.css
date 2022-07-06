@@ -1,0 +1,23 @@
+@media (max-width: 1024px) {
+    .social-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) {
+    .body {
+        background-color: #ffff;
+    }
+    .social-wrapper {
+        width: 90%;
+    }
+    .social-phone {
+        display: none;
+    }
+    .social-continue {
+        width: 100%;
+    }
+    .group {
+        border: 1px solid transparent;
+    }
+}
